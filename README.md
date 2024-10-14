@@ -27,5 +27,8 @@
 ### How to unstage after commit?
 - For going back after commit use `git reset HEAD~`
 
-### How to remove file in staging area?
+### How to roll back deleted file?
+- To do that use `git reset --hard`
+
+### How to remove file but keep file in staging area?
 - To do that use `git rm file_name`
