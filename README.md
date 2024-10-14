@@ -32,3 +32,12 @@
 
 ### How to remove file but keep file in staging area?
 - To do that use `git rm file_name`
+
+### How to the branches in local repository?
+- To do that use `git branch`
+
+### How to create new branch?
+- To create new branch `git branch branch_name`
+
+### How to switch branch?
+- To switch branch `git checkout branch_name`
