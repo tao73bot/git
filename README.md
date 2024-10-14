@@ -41,3 +41,8 @@
 
 ### How to switch branch?
 - To switch branch `git checkout branch_name`
+
+
+### How to merge two branch?
+- To merge two branch `git merge branch_name -m "message"`
+
