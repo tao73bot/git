@@ -46,3 +46,19 @@
 ### How to merge two branch?
 - To merge two branch `git merge branch_name -m "message"`
 
+        If two different branch have changed same file in different way then there will be a git conflict.
+
+
+### How to push in remote repository?
+
+- To push all thing `git push origin branch_name`
+
+### How to fetch changes in local repository?
+
+- To fetch changes `git fetch`
+        It will not show the changes so show the changes you have to merge it with `git merge`
+
+
+### How to do fetching and merging in on go?
+
+- To do that use `git pull`
